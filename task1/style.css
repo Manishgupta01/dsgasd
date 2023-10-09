@@ -1,0 +1,25 @@
+
+
+.container {
+    background-color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow:
+        inset 0 -3em 3em rgba(0, 200, 0, 0.1),
+        0 0 0 2px white,
+        0.3em 0.3em 1em rgba(39 68 74);
+}
+
+.error {
+    color: #c30202d9;
+}
+
+.hide{
+    display: none;
+}
+.R_table{
+    /* margin: 30px;   */
+    border: 1px solid grey;
+}
+
